@@ -1,0 +1,4 @@
+[submodule "DHS_design"]
+	path = DHS_design
+	url = https://github.com/meuleman/SynthSeqs.git
+	branch = HepG2_K562
