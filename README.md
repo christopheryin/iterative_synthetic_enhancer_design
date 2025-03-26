@@ -2,6 +2,8 @@
 
 This repository contains data analysis and sequence design code from "Iterative deep learning-design of human enhancers exploits condensed sequence grammar to achieve cell type-specificity" (paper link forthcoming).
 
+[![DOI](https://zenodo.org/badge/811074129.svg)](https://doi.org/10.5281/zenodo.15091391)
+
 ## Contents
  
 ### R1-MPRA_design
